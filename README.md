@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sundaram085
 - 👀 I’m interested in software developer
-- 🌱 I’m currently learning ...html,css,js
+- 🌱 I’m currently learning ...Web Development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
